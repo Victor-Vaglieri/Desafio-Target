@@ -34,17 +34,17 @@ Cada desafio é um projeto Console independente e pode ser executado através do
 
 1. **Executar o Desafio 1 (Cálculo de Comissões):**
     ```bash
-    cd "desafio 1"
+    cd .\desafio-1\
     dotnet run
     ```
 2. **Executar o Desafio 2 (Controle de Estoque):**
     ```bash
-    cd "desafio 2"
+    cd .\desafio-2\
     dotnet run
     ```
 3. **Executar o Desafio 3 (Cálculo de Juros):**
     ```bash
-    cd "desafio 3"
+    cd .\desafio-3\
     dotnet run
     ```
 
