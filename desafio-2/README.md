@@ -13,7 +13,7 @@ Ao final da movimentação, o programa deve retornar a **quantidade final (atual
 O projeto Console independente e pode ser executado através do .NET CLI.
 
 ```
-cd .\desafio-1\
+cd .\desafio-2\
 dotnet run
 ```
 
