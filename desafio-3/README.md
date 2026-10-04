@@ -17,7 +17,7 @@ dotnet run
 
 O programa de cálculo foi construído separando a lógica matemática do I/O, o que torna o código muito escalável e fácil de receber modificações nas regras de negócio de juros no futuro. 
 
-Abaixo temos as demonstrações de funcionamento da validação e cálculo:
+Abaixo se tem as demonstrações de funcionamento da validação e cálculo:
 
 ### 1. Inserção de Dados e Cálculos
 Ao iniciar, o programa fará a leitura do valor original e da data de vencimento (permitindo variados formatos de data). Se o título estiver vencido com relação à data de hoje, será aplicada a alíquota de juros compostos ou simples (neste caso, a multa diária de 2,5%) iterando sobre a diferença de dias.
