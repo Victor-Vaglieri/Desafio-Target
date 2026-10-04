@@ -8,6 +8,16 @@ Faça um programa onde seja possível lançar movimentações de estoque dos pro
 
 Ao final da movimentação, o programa deve retornar a **quantidade final (atualizada)** do estoque do produto movimentado.
 
+## Execução
+
+O projeto Console independente e pode ser executado através do .NET CLI.
+
+```
+cd .\desafio-1\
+dotnet run
+```
+
+
 ## Funcionamento e Testes
 
 Abaixo, está detalhado como o sistema de estoque opera na prática através do terminal. O sistema possuí um banco de dados relacional **SQLite** para persistir de fato todas as informações.
