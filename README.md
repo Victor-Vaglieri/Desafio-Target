@@ -4,7 +4,7 @@
 
 ## 1. Visão Geral
 
-O projeto foi dividido em três módulos independentes, cada um focando em um aspecto prático e técnico de desenvolvimento de software:
+O projeto foi dividido em três desafios, cada um focando em um aspecto prático e técnico de desenvolvimento de software:
 * **Desafio 1 (Comissões):** Leitura de dados (JSON) e processamento lógico para geração de relatório agrupado e ordenado de comissões de vendas.
 * **Desafio 2 (Controle de Estoque):** Sistema interativo em terminal para registro e consulta de entradas/saídas de mercadorias, incluindo persistência relacional e histórico de movimentações.
 * **Desafio 3 (Cálculo de Juros):** Algoritmo de cálculo de juros diários sobre atrasos, com foco em modularização e tratamento de validação de datas.
