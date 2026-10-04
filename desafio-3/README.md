@@ -3,6 +3,16 @@
 ## Enunciado do Desafio
 Faça um programa que a partir de um valor de título e de uma data de vencimento, calcule o **valor dos juros na data de hoje**, considerando que a multa de atraso seja fixada em **2,5% ao dia**.
 
+## Execução
+
+O projeto Console independente e pode ser executado através do .NET CLI.
+
+```
+cd .\desafio-3\
+dotnet run
+```
+
+
 ## Funcionamento e Testes
 
 O programa de cálculo foi construído separando a lógica matemática do I/O, o que torna o código muito escalável e fácil de receber modificações nas regras de negócio de juros no futuro. 
