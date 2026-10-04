@@ -16,6 +16,6 @@ Abaixo é demonstrado a execução da aplicação lendo o conjunto de dados em J
 ### 1. Leitura e Cálculo
 Ao iniciar, o programa fará o parse do arquivo `vendas.json`, fará os cálculos de comissão de maneira agrupada por vendedor, e retornará o total que cada vendedor tem a receber.
 
-![Print do terminal mostrando a lista de vendedores e o valor da comissão formatado em Reais (R$) de forma alfabética](images/img1-desafio1.png)
+![Print do terminal mostrando a lista de vendedores e o valor da comissão formatado em Reais (R$) de forma alfabética](https://github.com/Victor-Vaglieri/Desafio-Target/blob/main/images/img1-desafio1.png)
 
 *Observação: A listagem final é fortemente tipada utilizando a estrutura `RelatorioComissao` para garantir a integridade dos dados e facilitar o escalonamento do sistema.*
