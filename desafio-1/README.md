@@ -9,6 +9,15 @@ Considerando que um JSON (`vendas.json`) possui registros de vendas de um time c
 
 O programa deve retornar as comissões de cada vendedor, devidamente agrupadas, somadas e ordenadas por ordem alfabética do nome do vendedor.
 
+## Execução
+
+O projeto Console independente e pode ser executado através do .NET CLI.
+
+```
+cd .\desafio-1\
+dotnet run
+```
+
 ## Funcionamento e Testes
 
 Abaixo é demonstrado a execução da aplicação lendo o conjunto de dados em JSON e aplicando a regra de negócios.
